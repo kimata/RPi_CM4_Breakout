@@ -11,7 +11,7 @@ Raspberry Pi Compute Module 4 から，通常の Raspberry Pi にあるピンヘ
 
 ## 回路図
 
-![回路図](img/visual.png)
+![回路図](img/circuit.png)
 
 ## 基板の発注について
 
