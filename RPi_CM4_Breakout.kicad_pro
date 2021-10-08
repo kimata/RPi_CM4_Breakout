@@ -349,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RPi_CM4_Sensor.kicad_pro",
+    "filename": "RPi_CM4_Breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -383,7 +383,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "RPi_CM4_Breakout.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
