@@ -4389,7 +4389,7 @@
     (uuid e39ff249-1fd2-40b0-a7fa-944d830b3327)
     (property "Reference" "U1" (id 0) (at 155.575 37.6894 0))
     (property "Value" "74LVC1G07" (id 1) (at 155.575 40.4645 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering" (id 2) (at 156.21 44.45 0)
+    (property "Footprint" "CMIO:SOT-753" (id 2) (at 156.21 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" (id 3) (at 156.21 44.45 0)
@@ -4875,7 +4875,7 @@
       (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/e39ff249-1fd2-40b0-a7fa-944d830b3327"
-      (reference "U1") (unit 1) (value "74LVC1G07") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
+      (reference "U1") (unit 1) (value "74LVC1G07") (footprint "CMIO:SOT-753")
     )
   )
 )
